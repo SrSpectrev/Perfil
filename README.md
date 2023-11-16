@@ -1,5 +1,13 @@
 ### Hola 👋
 Mi nombre es Sergio y soy desarrollador de software, con un enfoque en la inteligencia artificial en la cual desarrollo apps en Python y su framework Django.
+Hasta el momento, he realizado proyectos, como:
+- Software de análisis del movimiento, diseñado específicamente para Fisioterapeutas, Rehabilitadores y Profesionales del Deporte.
+- Software de detección y validación de dianas de tiro.
 
-He usado hasta el momento TensorFlow como biblioteca de Machine Learning y Deep Learning y YOLO como herramienta de detección de elementos de cualquier tipo en tiempo real.
 
+# **Tecnologías**:
+- **Lenguajes de programación**: Python, HTML y JavaScript.
+- **Frameworks**: Django.
+- **Inteligencia Artificial**:
+   - **Bibliotecas**: Mediapipe, TensorFlow, OpenCV.
+   - **Herramientas de detección en tiempo real**: YOLO y SSDMobileNet.
