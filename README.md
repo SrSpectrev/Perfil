@@ -3,6 +3,7 @@ Mi nombre es Sergio y soy desarrollador de software, con un enfoque en la inteli
 Hasta el momento, he realizado proyectos, como:
 - Software de análisis del movimiento, diseñado específicamente para Fisioterapeutas, Rehabilitadores y Profesionales del Deporte.
 - Software de detección y validación de dianas de tiro.
+- Software diseñado para la detección de elementos para los cuales se entrena el modelo previamente.
 
 
 # **Tecnologías**:
