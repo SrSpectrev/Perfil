@@ -8,6 +8,7 @@ Hasta el momento, he realizado proyectos, como:
 
 
 # **Tecnologías**:
+- **SO**: Windows y Linux.
 - **Lenguajes de programación**: Python y JavaScript.
 - **Lenguajes de marcas**: HTML.
 - **Frameworks**: Flask.
