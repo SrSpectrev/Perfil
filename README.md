@@ -1,5 +1,5 @@
 ### Hola 👋
-Mi nombre es Sergio y soy desarrollador de software, con un enfoque en la inteligencia artificial en la cual desarrollo apps en Python y su framework Flask. También estoy interesado en el mundo Cloud y la integración continua con monitoreo de aplicaciones. Cuento con principios básicos de AWS y Docker.
+Mi nombre es Sergio y soy desarrollador de software, con un enfoque en la inteligencia artificial en la cual desarrollo apps en Python y su framework Flask. También estoy interesado en el mundo Cloud y la integración continua con monitoreo de aplicaciones ya que cccuento con principios básicos de AWS y Docker.
 
 Hasta el momento, he realizado proyectos, como:
 - Software de análisis del movimiento, diseñado específicamente para Fisioterapeutas, Rehabilitadores y Profesionales del Deporte.
