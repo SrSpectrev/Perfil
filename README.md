@@ -1,18 +1,26 @@
-### Hola 👋
-Mi nombre es Sergio y soy desarrollador de software, con un enfoque en la inteligencia artificial en la cual desarrollo apps en Python y su framework Flask. También estoy interesado en el mundo Cloud y la integración continua con monitoreo de aplicaciones ya que cccuento con principios básicos de AWS y Docker.
+**Sergio – Desarrollador de Software**
 
-Hasta el momento, he realizado proyectos, como:
-- Software de análisis del movimiento, diseñado específicamente para Fisioterapeutas, Rehabilitadores y Profesionales del Deporte.
-- Software de detección y validación de dianas de tiro.
-- Software diseñado para la detección de elementos para los cuales se entrena el modelo previamente.
+Desarrollador de software con experiencia en aplicaciones basadas en inteligencia artificial, utilizando Python y el microframework Flask. Interesado en entornos Cloud y prácticas DevOps, con conocimientos fundamentales en AWS, Docker e integración continua con monitoreo de aplicaciones.
 
+### Proyectos Destacados
 
-# **Tecnologías**:
-- **SO**: Windows y Linux.
-- **Lenguajes de programación**: Python y JavaScript.
-- **Lenguajes de marcas**: HTML.
-- **Frameworks**: Flask.
-- **Cloud**: AWS y Docker.
-- **Inteligencia Artificial**:
-   - **Bibliotecas**: Mediapipe, TensorFlow, OpenCV.
-   - **Herramientas de detección en tiempo real**: YOLO y SSDMobileNet.
+* **Sistema de análisis del movimiento humano**
+  Enfocado en fisioterapeutas, profesionales de la rehabilitación y del deporte. Basado en visión por computadora y modelos de estimación de pose.
+
+* **Sistema de detección y validación de dianas de tiro**
+  Aplicación de visión artificial para identificación y evaluación automática de aciertos en entornos de entrenamiento o competición.
+
+* **Sistema de detección personalizada mediante aprendizaje supervisado**
+  Entrenamiento de modelos específicos para la identificación automática de objetos definidos por el usuario.
+
+### Tecnologías y Herramientas
+
+* **Sistemas operativos:** Windows, Linux
+* **Lenguajes de programación:** Python, JavaScript
+* **Lenguajes de marcado:** HTML
+* **Frameworks:** Flask
+* **Cloud & DevOps:** AWS (nivel básico), Docker
+* **Visión artificial e IA:**
+
+  * **Librerías:** OpenCV, Mediapipe, TensorFlow
+  * **Modelos en tiempo real:** YOLO, SSD MobileNet 
